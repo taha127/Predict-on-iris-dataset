@@ -1,0 +1,21 @@
+venv/
+.vscode
+.idea
+__pycache__/
+*.py[cod]
+# Notebook temporal files
+notebooks/*/output/**
+notebooks/*/model/**
+notebooks/*/data/**
+notebooks/*/cache/**
+notebooks/*/.cache/**
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Report file for project
+*.docx
+*.pdf 
